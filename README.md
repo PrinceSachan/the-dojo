@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+The-dojo is project management website built with React and backend provided by Firebase. In this website you can assign the project to other users set up the due date of the project.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://thedojosite-d6942.web.app
 
 ## Available Scripts
 
